@@ -1,4 +1,4 @@
-# SPPB-validity
+# SPPB-study
 Stata syntax for "Associations of the Short Physical Performance Battery (SPPB) with adverse health outcomes in older adults: A 14-year follow-up from the English Longitudinal Study of Ageing (ELSA)"
 
 The repository contains the Stata syntax to replicate all of the analyses from our publication
